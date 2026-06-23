@@ -43,15 +43,17 @@ Currently exploring **AI engineering and system design**.
 
 ## 📫 Contact
 
-<a href="mailto:zand.faeze@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+  <a href="mailto:zand.faeze@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<br/>
-
-<a href="https://linkedin.com/in/faeze-zand-528104203">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p>
+  <a href="https://linkedin.com/in/faeze-zand-528104203">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 
 ⚡ Open to Backend / Ruby on Rails opportunities
